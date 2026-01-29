@@ -5,7 +5,7 @@ import { Code2, Database, Globe, Mail, Github, Linkedin, Server, Smartphone, Men
 import { Button } from './components/ui/button';
 import { Input } from './components/ui/input';
 import { Textarea } from './components/ui/textarea';
-import profileImage from 'figma:asset/4e3e4d22cd479729dc5154b03355080701dd767b.png';
+import profileImage from './assets/4e3e4d22cd479729dc5154b03355080701dd767b.png';
 
 export default function App() {
   const [formData, setFormData] = useState({
